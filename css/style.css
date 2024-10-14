@@ -9,9 +9,6 @@ body {
   padding-bottom: 120px;
 }
 
-.masila{
-  height: 300px;
-}
 .layout_padding2 {
   padding: 45px 0;
 }
@@ -457,9 +454,11 @@ a:focus {
 }
 
 
+
 .about_section .about_container {
-  padding: 45px;
-  background-image: url(../images/about-bg.jpg);
+  color: #000;
+  font-weight: bolder;
+  background-image: url(../images/grpo.jpg);
   background-size: cover;
 }
 
@@ -475,6 +474,7 @@ a:focus {
 
 .about_section .about_container .detail-box p {
   margin-top: 25px;
+  margin-bottom: auto;
 }
 
 .about_section .about_container .detail-box hr {
