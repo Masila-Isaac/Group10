@@ -9,9 +9,6 @@ body {
   padding-bottom: 120px;
 }
 
-.masila {
-  height: 300px;
-}
 
 .layout_padding2 {
   padding: 45px 0;
@@ -67,11 +64,7 @@ body {
   position: relative;
 }
 
-<<<<<<< HEAD
-.client{
-=======
 .client {
->>>>>>> 0035232e024f883044f3c2161241dafb74dd3130
   border-radius: 40px;
 }
 
@@ -467,12 +460,13 @@ a:focus {
 }
 
 
-
 .about_section .about_container {
-  color: #000;
-  font-weight: bolder;
-  background-image: url(../images/grpo.jpg);
+  background-image: url(../images/GROUP.jpg);
   background-size: cover;
+}
+.true{
+  color: black;
+  font-weight: bolder;
 }
 
 .about_section .about_container .detail-box {
@@ -487,7 +481,6 @@ a:focus {
 
 .about_section .about_container .detail-box p {
   margin-top: 25px;
-  margin-bottom: auto;
 }
 
 .about_section .about_container .detail-box hr {
