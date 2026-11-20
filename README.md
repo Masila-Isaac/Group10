@@ -1,1 +1,3 @@
-new group project on a website about a gym 
+# DENCRIB GYM STAR website
+
+Static site (HTML, Bootstrap, jQuery). Hosted free on GitHub Pages.
